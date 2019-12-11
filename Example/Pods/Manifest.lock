@@ -1,0 +1,16 @@
+PODS:
+  - LWKBCommonUtils (1.0.0)
+
+DEPENDENCIES:
+  - LWKBCommonUtils (from `../`)
+
+EXTERNAL SOURCES:
+  LWKBCommonUtils:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  LWKBCommonUtils: f167bd631174e93de08d30d2b57a7312959c6c36
+
+PODFILE CHECKSUM: 5a8877265fa4f5a46cc49f30dd2c7f5c467be03e
+
+COCOAPODS: 1.8.3
