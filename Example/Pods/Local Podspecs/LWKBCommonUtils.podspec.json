@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "summary": "A short description of LWKBCommonUtils.",
   "description": "TODO: Add long description of the pod here.",
-  "homepage": "https://github.com/luowei/LWKBCommonUtils",
+  "homepage": "https://gitlab.com/ioslibraries1/lwkbcommonutils.git",
   "license": {
     "type": "MIT",
     "file": "LICENSE"
@@ -12,8 +12,7 @@
     "luowei": "luowei@wodedata.com"
   },
   "source": {
-    "git": "https://github.com/luowei/LWKBCommonUtils.git",
-    "tag": "1.0.0"
+    "git": "https://gitlab.com/ioslibraries1/lwkbcommonutils.git"
   },
   "platforms": {
     "ios": "8.0"
