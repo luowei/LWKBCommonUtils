@@ -52,8 +52,6 @@ _Pragma("clang diagnostic pop")
         dispatch_sync(dispatch_get_main_queue(), block);\
     }
 
-
-
 #define Scr_Scale [UIScreen mainScreen].scale
 
 #define WEAKSELF typeof(self) __weak weakSelf = self;
@@ -67,10 +65,16 @@ _Pragma("clang diagnostic pop")
 //屏幕宽度,高度
 #define Screen_W ((CGFloat)([UIScreen mainScreen].bounds.size.width))
 #define Screen_H ((CGFloat)([UIScreen mainScreen].bounds.size.height))
+
 //竖屏时的屏幕宽度
 #define IsLandscape (Screen_W > Screen_H ? YES : NO)
 #define Screen_Protrait_W (Screen_W > Screen_H ? Screen_H : Screen_W)
 #define Screen_Protrait_H (Screen_W > Screen_H ? Screen_W : Screen_H)
 
+//留海屏
+//iphone分辨率：https://www.paintcodeapp.com/news/ultimate-guide-to-iphone-resolutions
+//#define HasTopNotch ((@available(iOS 11.0, *) && ([[[UIApplication sharedApplication] delegate] window].safeAreaInsets.top > 20.0)) ? YES : NO)
+#define HasTopNotch (([UIDevice.currentDevice userInterfaceIdiom] == UIUserInterfaceIdiomPhone) && ([[UIScreen mainScreen] bounds].size.height >= 812.0f))
+#define ExceptNotch_H (HasTopNotch ? Screen_H-108 : Screen_H)
 
 #endif /* AppDefines_h_h */
