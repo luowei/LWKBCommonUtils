@@ -38,7 +38,7 @@
     [userDefaults synchronize];
 }
 
-//从UserDefault中取值
+//从APP Group中取值
 +(id)getMyInputMethodAPPGroupValueByKey:(NSString *)key {
     NSUserDefaults *userDefaults = [[NSUserDefaults alloc] initWithSuiteName:@"group.com.wodedata.LWInputMethod"];
     return [userDefaults objectForKey:key];
