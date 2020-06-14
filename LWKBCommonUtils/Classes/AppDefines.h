@@ -71,10 +71,15 @@ _Pragma("clang diagnostic pop")
 #define Screen_Protrait_W (Screen_W > Screen_H ? Screen_H : Screen_W)
 #define Screen_Protrait_H (Screen_W > Screen_H ? Screen_W : Screen_H)
 
+//是否ipad pro,排除 768x1024 的 ipad pro
+#define IS_IPAD ([UIDevice.currentDevice userInterfaceIdiom] == UIUserInterfaceIdiomPad)
+#define IPAD_PRO_H (MAX(Screen_W,Screen_H))
+#define IS_IPAD_PRO (IS_IPAD && (IPAD_PRO_H == 1112.0 || IPAD_PRO_H == 1194.0 || IPAD_PRO_H == 1366.0))
+
 //留海屏
 //iphone分辨率：https://www.paintcodeapp.com/news/ultimate-guide-to-iphone-resolutions
 //#define HasTopNotch ((@available(iOS 11.0, *) && ([[[UIApplication sharedApplication] delegate] window].safeAreaInsets.top > 20.0)) ? YES : NO)
 #define HasTopNotch (([UIDevice.currentDevice userInterfaceIdiom] == UIUserInterfaceIdiomPhone) && ([[UIScreen mainScreen] bounds].size.height >= 812.0f))
-#define ExceptNotch_H (HasTopNotch ? Screen_H-108 : Screen_H)
+#define ExceptNotch_H (HasTopNotch ? (Screen_H-108) : (IS_IPAD_PRO ? Screen_H-48 :Screen_H) )
 
 #endif /* AppDefines_h_h */
