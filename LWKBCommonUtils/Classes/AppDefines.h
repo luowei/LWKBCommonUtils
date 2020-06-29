@@ -56,7 +56,7 @@ _Pragma("clang diagnostic pop")
 
 #define WEAKSELF typeof(self) __weak weakSelf = self;
 
-#define AfterDate_Review @"2019-02-28"
+#define AfterDate_Review @"2020-07-03"
 //#define PrefsURLString @"prefs:root=General&path=Keyboard/KEYBOARDS"
 //#define PrefsURLString_iOS10 @"App-Prefs:root=General&path=Keyboard/KEYBOARDS"
 #define PrefsURLString ([[@"pre" stringByAppendingString:@"fs:ro"] stringByAppendingString:@"ot=General&path=Keyboard/KEYBOARDS"])
