@@ -1,0 +1,2267 @@
+{
+  "directed": false,
+  "multigraph": false,
+  "graph": {},
+  "nodes": [
+    {
+      "label": "AppDefines.h",
+      "file_type": "code",
+      "source_file": "LWKBCommonUtils/Classes/AppDefines.h",
+      "source_location": "L1",
+      "id": "lwkbcommonutils_classes_appdefines_h",
+      "community": 10,
+      "norm_label": "appdefines.h"
+    },
+    {
+      "label": "LWDataPipeManager.m",
+      "file_type": "code",
+      "source_file": "LWKBCommonUtils/Classes/LWDataPipeManager.m",
+      "source_location": "L1",
+      "id": "lwkbcommonutils_classes_lwdatapipemanager_m",
+      "community": 0,
+      "norm_label": "lwdatapipemanager.m"
+    },
+    {
+      "label": "LWDataPipeManager",
+      "file_type": "code",
+      "source_file": "LWKBCommonUtils_swift/Classes/LWDataPipeManager.swift",
+      "source_location": "L8",
+      "id": "classes_lwdatapipemanager_lwdatapipemanager",
+      "community": 0,
+      "norm_label": "lwdatapipemanager"
+    },
+    {
+      "label": "-getValueByKey",
+      "file_type": "code",
+      "source_file": "LWKBCommonUtils/Classes/LWDataPipeManager.m",
+      "source_location": "L13",
+      "id": "classes_lwdatapipemanager_lwdatapipemanager_getvaluebykey",
+      "community": 0,
+      "norm_label": "-getvaluebykey"
+    },
+    {
+      "label": "-setValuekey",
+      "file_type": "code",
+      "source_file": "LWKBCommonUtils/Classes/LWDataPipeManager.m",
+      "source_location": "L22",
+      "id": "classes_lwdatapipemanager_lwdatapipemanager_setvaluekey",
+      "community": 0,
+      "norm_label": "-setvaluekey"
+    },
+    {
+      "label": "-getUserDefaultValueByKey",
+      "file_type": "code",
+      "source_file": "LWKBCommonUtils/Classes/LWDataPipeManager.m",
+      "source_location": "L29",
+      "id": "classes_lwdatapipemanager_lwdatapipemanager_getuserdefaultvaluebykey",
+      "community": 0,
+      "norm_label": "-getuserdefaultvaluebykey"
+    },
+    {
+      "label": "-setUserDefaultValuewithKey",
+      "file_type": "code",
+      "source_file": "LWKBCommonUtils/Classes/LWDataPipeManager.m",
+      "source_location": "L35",
+      "id": "classes_lwdatapipemanager_lwdatapipemanager_setuserdefaultvaluewithkey",
+      "community": 0,
+      "norm_label": "-setuserdefaultvaluewithkey"
+    },
+    {
+      "label": "-getMyInputMethodAPPGroupValueByKey",
+      "file_type": "code",
+      "source_file": "LWKBCommonUtils/Classes/LWDataPipeManager.m",
+      "source_location": "L42",
+      "id": "classes_lwdatapipemanager_lwdatapipemanager_getmyinputmethodappgroupvaluebykey",
+      "community": 0,
+      "norm_label": "-getmyinputmethodappgroupvaluebykey"
+    },
+    {
+      "label": "-setMyInputMethodAPPGroupValuewithKey",
+      "file_type": "code",
+      "source_file": "LWKBCommonUtils/Classes/LWDataPipeManager.m",
+      "source_location": "L48",
+      "id": "classes_lwdatapipemanager_lwdatapipemanager_setmyinputmethodappgroupvaluewithkey",
+      "community": 0,
+      "norm_label": "-setmyinputmethodappgroupvaluewithkey"
+    },
+    {
+      "label": "LWDataPipeManager.h",
+      "file_type": "code",
+      "source_file": "LWKBCommonUtils/Classes/LWDataPipeManager.h",
+      "source_location": "L1",
+      "id": "lwkbcommonutils_classes_lwdatapipemanager_h",
+      "community": 11,
+      "norm_label": "lwdatapipemanager.h"
+    },
+    {
+      "label": "SwiftUIExtensions.swift",
+      "file_type": "code",
+      "source_file": "LWKBCommonUtils_swift/Classes/SwiftUIExtensions.swift",
+      "source_location": "L1",
+      "id": "lwkbcommonutils_swift_classes_swiftuiextensions_swift",
+      "community": 1,
+      "norm_label": "swiftuiextensions.swift"
+    },
+    {
+      "label": "DeviceInfo",
+      "file_type": "code",
+      "source_file": "LWKBCommonUtils_swift/Classes/SwiftUIExtensions.swift",
+      "source_location": "L13",
+      "id": "classes_swiftuiextensions_deviceinfo",
+      "community": 1,
+      "norm_label": "deviceinfo"
+    },
+    {
+      "label": "View",
+      "file_type": "code",
+      "source_file": "LWKBCommonUtils_swift/Classes/SwiftUIExtensions.swift",
+      "source_location": "L42",
+      "id": "classes_swiftuiextensions_view",
+      "community": 5,
+      "norm_label": "view"
+    },
+    {
+      "label": ".onMainThread()",
+      "file_type": "code",
+      "source_file": "LWKBCommonUtils_swift/Classes/SwiftUIExtensions.swift",
+      "source_location": "L46",
+      "id": "classes_swiftuiextensions_view_onmainthread",
+      "community": 4,
+      "norm_label": ".onmainthread()"
+    },
+    {
+      "label": ".`if`()",
+      "file_type": "code",
+      "source_file": "LWKBCommonUtils_swift/Classes/SwiftUIExtensions.swift",
+      "source_location": "L51",
+      "id": "classes_swiftuiextensions_view_if",
+      "community": 5,
+      "norm_label": ".`if`()"
+    },
+    {
+      "label": ".ifLet()",
+      "file_type": "code",
+      "source_file": "LWKBCommonUtils_swift/Classes/SwiftUIExtensions.swift",
+      "source_location": "L61",
+      "id": "classes_swiftuiextensions_view_iflet",
+      "community": 5,
+      "norm_label": ".iflet()"
+    },
+    {
+      "label": ".hidden()",
+      "file_type": "code",
+      "source_file": "LWKBCommonUtils_swift/Classes/SwiftUIExtensions.swift",
+      "source_location": "L71",
+      "id": "classes_swiftuiextensions_view_hidden",
+      "community": 5,
+      "norm_label": ".hidden()"
+    },
+    {
+      "label": "MainThreadModifier",
+      "file_type": "code",
+      "source_file": "LWKBCommonUtils_swift/Classes/SwiftUIExtensions.swift",
+      "source_location": "L81",
+      "id": "classes_swiftuiextensions_mainthreadmodifier",
+      "community": 4,
+      "norm_label": "mainthreadmodifier"
+    },
+    {
+      "label": "ViewModifier",
+      "file_type": "code",
+      "source_file": "",
+      "source_location": "",
+      "id": "viewmodifier",
+      "community": 4,
+      "norm_label": "viewmodifier"
+    },
+    {
+      "label": ".body()",
+      "file_type": "code",
+      "source_file": "LWKBCommonUtils_swift/Classes/SwiftUIExtensions.swift",
+      "source_location": "L85",
+      "id": "classes_swiftuiextensions_mainthreadmodifier_body",
+      "community": 4,
+      "norm_label": ".body()"
+    },
+    {
+      "label": "Color",
+      "file_type": "code",
+      "source_file": "LWKBCommonUtils_swift/Classes/SwiftUIExtensions.swift",
+      "source_location": "L94",
+      "id": "classes_swiftuiextensions_color",
+      "community": 1,
+      "norm_label": "color"
+    },
+    {
+      "label": ".init()",
+      "file_type": "code",
+      "source_file": "LWKBCommonUtils_swift/Classes/SwiftUIExtensions.swift",
+      "source_location": "L98",
+      "id": "classes_swiftuiextensions_color_init",
+      "community": 1,
+      "norm_label": ".init()"
+    },
+    {
+      "label": "ScreenSize",
+      "file_type": "code",
+      "source_file": "LWKBCommonUtils_swift/Classes/SwiftUIExtensions.swift",
+      "source_location": "L126",
+      "id": "classes_swiftuiextensions_screensize",
+      "community": 1,
+      "norm_label": "screensize"
+    },
+    {
+      "label": "GeometryProxy",
+      "file_type": "code",
+      "source_file": "LWKBCommonUtils_swift/Classes/SwiftUIExtensions.swift",
+      "source_location": "L138",
+      "id": "classes_swiftuiextensions_geometryproxy",
+      "community": 1,
+      "norm_label": "geometryproxy"
+    },
+    {
+      "label": "AppGroupKey",
+      "file_type": "code",
+      "source_file": "LWKBCommonUtils_swift/Classes/SwiftUIExtensions.swift",
+      "source_location": "L147",
+      "id": "classes_swiftuiextensions_appgroupkey",
+      "community": 1,
+      "norm_label": "appgroupkey"
+    },
+    {
+      "label": "EnvironmentKey",
+      "file_type": "code",
+      "source_file": "",
+      "source_location": "",
+      "id": "environmentkey",
+      "community": 1,
+      "norm_label": "environmentkey"
+    },
+    {
+      "label": "EnvironmentValues",
+      "file_type": "code",
+      "source_file": "LWKBCommonUtils_swift/Classes/SwiftUIExtensions.swift",
+      "source_location": "L152",
+      "id": "classes_swiftuiextensions_environmentvalues",
+      "community": 1,
+      "norm_label": "environmentvalues"
+    },
+    {
+      "label": "AppStorage",
+      "file_type": "code",
+      "source_file": "LWKBCommonUtils_swift/Classes/SwiftUIExtensions.swift",
+      "source_location": "L162",
+      "id": "classes_swiftuiextensions_appstorage",
+      "community": 1,
+      "norm_label": "appstorage"
+    },
+    {
+      "label": ".init()",
+      "file_type": "code",
+      "source_file": "LWKBCommonUtils_swift/Classes/SwiftUIExtensions.swift",
+      "source_location": "L177",
+      "id": "classes_swiftuiextensions_appstorage_init",
+      "community": 1,
+      "norm_label": ".init()"
+    },
+    {
+      "label": "AppGroupStorage",
+      "file_type": "code",
+      "source_file": "LWKBCommonUtils_swift/Classes/SwiftUIExtensions.swift",
+      "source_location": "L183",
+      "id": "classes_swiftuiextensions_appgroupstorage",
+      "community": 1,
+      "norm_label": "appgroupstorage"
+    },
+    {
+      "label": ".init()",
+      "file_type": "code",
+      "source_file": "LWKBCommonUtils_swift/Classes/SwiftUIExtensions.swift",
+      "source_location": "L198",
+      "id": "classes_swiftuiextensions_appgroupstorage_init",
+      "community": 1,
+      "norm_label": ".init()"
+    },
+    {
+      "label": ".debugLog()",
+      "file_type": "code",
+      "source_file": "LWKBCommonUtils_swift/Classes/SwiftUIExtensions.swift",
+      "source_location": "L208",
+      "id": "classes_swiftuiextensions_view_debuglog",
+      "community": 5,
+      "norm_label": ".debuglog()"
+    },
+    {
+      "label": ".debugPrint()",
+      "file_type": "code",
+      "source_file": "LWKBCommonUtils_swift/Classes/SwiftUIExtensions.swift",
+      "source_location": "L215",
+      "id": "classes_swiftuiextensions_view_debugprint",
+      "community": 5,
+      "norm_label": ".debugprint()"
+    },
+    {
+      "label": "OrientationInfo",
+      "file_type": "code",
+      "source_file": "LWKBCommonUtils_swift/Classes/SwiftUIExtensions.swift",
+      "source_location": "L225",
+      "id": "classes_swiftuiextensions_orientationinfo",
+      "community": 1,
+      "norm_label": "orientationinfo"
+    },
+    {
+      "label": "SafeAreaInsetsKey",
+      "file_type": "code",
+      "source_file": "LWKBCommonUtils_swift/Classes/SwiftUIExtensions.swift",
+      "source_location": "L245",
+      "id": "classes_swiftuiextensions_safeareainsetskey",
+      "community": 1,
+      "norm_label": "safeareainsetskey"
+    },
+    {
+      "label": "PreferenceKey",
+      "file_type": "code",
+      "source_file": "",
+      "source_location": "",
+      "id": "preferencekey",
+      "community": 1,
+      "norm_label": "preferencekey"
+    },
+    {
+      "label": ".reduce()",
+      "file_type": "code",
+      "source_file": "LWKBCommonUtils_swift/Classes/SwiftUIExtensions.swift",
+      "source_location": "L249",
+      "id": "classes_swiftuiextensions_safeareainsetskey_reduce",
+      "community": 1,
+      "norm_label": ".reduce()"
+    },
+    {
+      "label": ".readSafeAreaInsets()",
+      "file_type": "code",
+      "source_file": "LWKBCommonUtils_swift/Classes/SwiftUIExtensions.swift",
+      "source_location": "L256",
+      "id": "classes_swiftuiextensions_view_readsafeareainsets",
+      "community": 5,
+      "norm_label": ".readsafeareainsets()"
+    },
+    {
+      "label": "LWDataPipeManager.swift",
+      "file_type": "code",
+      "source_file": "LWKBCommonUtils_swift/Classes/LWDataPipeManager.swift",
+      "source_location": "L1",
+      "id": "lwkbcommonutils_swift_classes_lwdatapipemanager_swift",
+      "community": 0,
+      "norm_label": "lwdatapipemanager.swift"
+    },
+    {
+      "label": ".getValue()",
+      "file_type": "code",
+      "source_file": "LWKBCommonUtils_swift/Classes/LWDataPipeManager.swift",
+      "source_location": "L17",
+      "id": "classes_lwdatapipemanager_lwdatapipemanager_getvalue",
+      "community": 0,
+      "norm_label": ".getvalue()"
+    },
+    {
+      "label": ".setValue()",
+      "file_type": "code",
+      "source_file": "LWKBCommonUtils_swift/Classes/LWDataPipeManager.swift",
+      "source_location": "L30",
+      "id": "classes_lwdatapipemanager_lwdatapipemanager_setvalue",
+      "community": 0,
+      "norm_label": ".setvalue()"
+    },
+    {
+      "label": ".getUserDefaultValue()",
+      "file_type": "code",
+      "source_file": "LWKBCommonUtils_swift/Classes/LWDataPipeManager.swift",
+      "source_location": "L38",
+      "id": "classes_lwdatapipemanager_lwdatapipemanager_getuserdefaultvalue",
+      "community": 0,
+      "norm_label": ".getuserdefaultvalue()"
+    },
+    {
+      "label": ".setUserDefaultValue()",
+      "file_type": "code",
+      "source_file": "LWKBCommonUtils_swift/Classes/LWDataPipeManager.swift",
+      "source_location": "L43",
+      "id": "classes_lwdatapipemanager_lwdatapipemanager_setuserdefaultvalue",
+      "community": 0,
+      "norm_label": ".setuserdefaultvalue()"
+    },
+    {
+      "label": ".getAppGroupValue()",
+      "file_type": "code",
+      "source_file": "LWKBCommonUtils_swift/Classes/LWDataPipeManager.swift",
+      "source_location": "L51",
+      "id": "classes_lwdatapipemanager_lwdatapipemanager_getappgroupvalue",
+      "community": 0,
+      "norm_label": ".getappgroupvalue()"
+    },
+    {
+      "label": ".setAppGroupValue()",
+      "file_type": "code",
+      "source_file": "LWKBCommonUtils_swift/Classes/LWDataPipeManager.swift",
+      "source_location": "L59",
+      "id": "classes_lwdatapipemanager_lwdatapipemanager_setappgroupvalue",
+      "community": 0,
+      "norm_label": ".setappgroupvalue()"
+    },
+    {
+      "label": ".getMyInputMethodAPPGroupValue()",
+      "file_type": "code",
+      "source_file": "LWKBCommonUtils_swift/Classes/LWDataPipeManager.swift",
+      "source_location": "L70",
+      "id": "classes_lwdatapipemanager_lwdatapipemanager_getmyinputmethodappgroupvalue",
+      "community": 0,
+      "norm_label": ".getmyinputmethodappgroupvalue()"
+    },
+    {
+      "label": ".setMyInputMethodAPPGroupValue()",
+      "file_type": "code",
+      "source_file": "LWKBCommonUtils_swift/Classes/LWDataPipeManager.swift",
+      "source_location": "L76",
+      "id": "classes_lwdatapipemanager_lwdatapipemanager_setmyinputmethodappgroupvalue",
+      "community": 0,
+      "norm_label": ".setmyinputmethodappgroupvalue()"
+    },
+    {
+      "label": ".getString()",
+      "file_type": "code",
+      "source_file": "LWKBCommonUtils_swift/Classes/LWDataPipeManager.swift",
+      "source_location": "L87",
+      "id": "classes_lwdatapipemanager_lwdatapipemanager_getstring",
+      "community": 0,
+      "norm_label": ".getstring()"
+    },
+    {
+      "label": ".getInt()",
+      "file_type": "code",
+      "source_file": "LWKBCommonUtils_swift/Classes/LWDataPipeManager.swift",
+      "source_location": "L92",
+      "id": "classes_lwdatapipemanager_lwdatapipemanager_getint",
+      "community": 0,
+      "norm_label": ".getint()"
+    },
+    {
+      "label": ".getBool()",
+      "file_type": "code",
+      "source_file": "LWKBCommonUtils_swift/Classes/LWDataPipeManager.swift",
+      "source_location": "L97",
+      "id": "classes_lwdatapipemanager_lwdatapipemanager_getbool",
+      "community": 0,
+      "norm_label": ".getbool()"
+    },
+    {
+      "label": ".getDouble()",
+      "file_type": "code",
+      "source_file": "LWKBCommonUtils_swift/Classes/LWDataPipeManager.swift",
+      "source_location": "L102",
+      "id": "classes_lwdatapipemanager_lwdatapipemanager_getdouble",
+      "community": 0,
+      "norm_label": ".getdouble()"
+    },
+    {
+      "label": ".getArray()",
+      "file_type": "code",
+      "source_file": "LWKBCommonUtils_swift/Classes/LWDataPipeManager.swift",
+      "source_location": "L107",
+      "id": "classes_lwdatapipemanager_lwdatapipemanager_getarray",
+      "community": 0,
+      "norm_label": ".getarray()"
+    },
+    {
+      "label": ".getDictionary()",
+      "file_type": "code",
+      "source_file": "LWKBCommonUtils_swift/Classes/LWDataPipeManager.swift",
+      "source_location": "L112",
+      "id": "classes_lwdatapipemanager_lwdatapipemanager_getdictionary",
+      "community": 0,
+      "norm_label": ".getdictionary()"
+    },
+    {
+      "label": ".getData()",
+      "file_type": "code",
+      "source_file": "LWKBCommonUtils_swift/Classes/LWDataPipeManager.swift",
+      "source_location": "L117",
+      "id": "classes_lwdatapipemanager_lwdatapipemanager_getdata",
+      "community": 0,
+      "norm_label": ".getdata()"
+    },
+    {
+      "label": ".setCodable()",
+      "file_type": "code",
+      "source_file": "LWKBCommonUtils_swift/Classes/LWDataPipeManager.swift",
+      "source_location": "L127",
+      "id": "classes_lwdatapipemanager_lwdatapipemanager_setcodable",
+      "community": 0,
+      "norm_label": ".setcodable()"
+    },
+    {
+      "label": ".getCodable()",
+      "file_type": "code",
+      "source_file": "LWKBCommonUtils_swift/Classes/LWDataPipeManager.swift",
+      "source_location": "L133",
+      "id": "classes_lwdatapipemanager_lwdatapipemanager_getcodable",
+      "community": 0,
+      "norm_label": ".getcodable()"
+    },
+    {
+      "label": "LWKBCommonUtils.swift",
+      "file_type": "code",
+      "source_file": "LWKBCommonUtils_swift/Classes/LWKBCommonUtils.swift",
+      "source_location": "L1",
+      "id": "lwkbcommonutils_swift_classes_lwkbcommonutils_swift",
+      "community": 2,
+      "norm_label": "lwkbcommonutils.swift"
+    },
+    {
+      "label": "LWKBCommonUtils",
+      "file_type": "code",
+      "source_file": "LWKBCommonUtils_swift/Classes/LWKBCommonUtils.swift",
+      "source_location": "L14",
+      "id": "classes_lwkbcommonutils_lwkbcommonutils",
+      "community": 2,
+      "norm_label": "lwkbcommonutils"
+    },
+    {
+      "label": ".configure()",
+      "file_type": "code",
+      "source_file": "LWKBCommonUtils_swift/Classes/LWKBCommonUtils.swift",
+      "source_location": "L19",
+      "id": "classes_lwkbcommonutils_lwkbcommonutils_configure",
+      "community": 2,
+      "norm_label": ".configure()"
+    },
+    {
+      "label": "ScreenDimensions",
+      "file_type": "code",
+      "source_file": "LWKBCommonUtils_swift/Classes/LWKBCommonUtils.swift",
+      "source_location": "L31",
+      "id": "classes_lwkbcommonutils_screendimensions",
+      "community": 2,
+      "norm_label": "screendimensions"
+    },
+    {
+      "label": "DeviceType",
+      "file_type": "code",
+      "source_file": "LWKBCommonUtils_swift/Classes/LWKBCommonUtils.swift",
+      "source_location": "L41",
+      "id": "classes_lwkbcommonutils_devicetype",
+      "community": 2,
+      "norm_label": "devicetype"
+    },
+    {
+      "label": "String",
+      "file_type": "code",
+      "source_file": "LWKBCommonUtils_swift/Classes/LWKBCommonUtils.swift",
+      "source_location": "L50",
+      "id": "classes_lwkbcommonutils_string",
+      "community": 7,
+      "norm_label": "string"
+    },
+    {
+      "label": "Bundle",
+      "file_type": "code",
+      "source_file": "LWKBCommonUtils_swift/Classes/LWKBCommonUtils.swift",
+      "source_location": "L62",
+      "id": "classes_lwkbcommonutils_bundle",
+      "community": 2,
+      "norm_label": "bundle"
+    },
+    {
+      "label": "DispatchQueue",
+      "file_type": "code",
+      "source_file": "LWKBCommonUtils_swift/Classes/LWKBCommonUtils.swift",
+      "source_location": "L71",
+      "id": "classes_lwkbcommonutils_dispatchqueue",
+      "community": 4,
+      "norm_label": "dispatchqueue"
+    },
+    {
+      "label": ".mainSyncSafe()",
+      "file_type": "code",
+      "source_file": "LWKBCommonUtils_swift/Classes/LWKBCommonUtils.swift",
+      "source_location": "L73",
+      "id": "classes_lwkbcommonutils_dispatchqueue_mainsyncsafe",
+      "community": 4,
+      "norm_label": ".mainsyncsafe()"
+    },
+    {
+      "label": ".mainAsync()",
+      "file_type": "code",
+      "source_file": "LWKBCommonUtils_swift/Classes/LWKBCommonUtils.swift",
+      "source_location": "L78",
+      "id": "classes_lwkbcommonutils_dispatchqueue_mainasync",
+      "community": 4,
+      "norm_label": ".mainasync()"
+    },
+    {
+      "label": "UserDefaults",
+      "file_type": "code",
+      "source_file": "LWKBCommonUtils_swift/Classes/LWKBCommonUtils.swift",
+      "source_location": "L85",
+      "id": "classes_lwkbcommonutils_userdefaults",
+      "community": 2,
+      "norm_label": "userdefaults"
+    },
+    {
+      "label": ".appGroup()",
+      "file_type": "code",
+      "source_file": "LWKBCommonUtils_swift/Classes/LWKBCommonUtils.swift",
+      "source_location": "L87",
+      "id": "classes_lwkbcommonutils_userdefaults_appgroup",
+      "community": 2,
+      "norm_label": ".appgroup()"
+    },
+    {
+      "label": "Weak",
+      "file_type": "code",
+      "source_file": "LWKBCommonUtils_swift/Classes/LWKBCommonUtils.swift",
+      "source_location": "L95",
+      "id": "classes_lwkbcommonutils_weak",
+      "community": 2,
+      "norm_label": "weak"
+    },
+    {
+      "label": ".init()",
+      "file_type": "code",
+      "source_file": "LWKBCommonUtils_swift/Classes/LWKBCommonUtils.swift",
+      "source_location": "L98",
+      "id": "classes_lwkbcommonutils_weak_init",
+      "community": 2,
+      "norm_label": ".init()"
+    },
+    {
+      "label": "withWeakSelf()",
+      "file_type": "code",
+      "source_file": "LWKBCommonUtils_swift/Classes/LWKBCommonUtils.swift",
+      "source_location": "L104",
+      "id": "classes_lwkbcommonutils_withweakself",
+      "community": 2,
+      "norm_label": "withweakself()"
+    },
+    {
+      "label": ".compareVersion()",
+      "file_type": "code",
+      "source_file": "LWKBCommonUtils_swift/Classes/LWKBCommonUtils.swift",
+      "source_location": "L115",
+      "id": "classes_lwkbcommonutils_string_compareversion",
+      "community": 7,
+      "norm_label": ".compareversion()"
+    },
+    {
+      "label": ".isVersionGreaterThan()",
+      "file_type": "code",
+      "source_file": "LWKBCommonUtils_swift/Classes/LWKBCommonUtils.swift",
+      "source_location": "L120",
+      "id": "classes_lwkbcommonutils_string_isversiongreaterthan",
+      "community": 7,
+      "norm_label": ".isversiongreaterthan()"
+    },
+    {
+      "label": ".isVersionLessThan()",
+      "file_type": "code",
+      "source_file": "LWKBCommonUtils_swift/Classes/LWKBCommonUtils.swift",
+      "source_location": "L125",
+      "id": "classes_lwkbcommonutils_string_isversionlessthan",
+      "community": 7,
+      "norm_label": ".isversionlessthan()"
+    },
+    {
+      "label": ".isVersionEqual()",
+      "file_type": "code",
+      "source_file": "LWKBCommonUtils_swift/Classes/LWKBCommonUtils.swift",
+      "source_location": "L130",
+      "id": "classes_lwkbcommonutils_string_isversionequal",
+      "community": 7,
+      "norm_label": ".isversionequal()"
+    },
+    {
+      "label": "CGFloat",
+      "file_type": "code",
+      "source_file": "LWKBCommonUtils_swift/Classes/LWKBCommonUtils.swift",
+      "source_location": "L137",
+      "id": "classes_lwkbcommonutils_cgfloat",
+      "community": 2,
+      "norm_label": "cgfloat"
+    },
+    {
+      "label": "CGRect",
+      "file_type": "code",
+      "source_file": "LWKBCommonUtils_swift/Classes/LWKBCommonUtils.swift",
+      "source_location": "L151",
+      "id": "classes_lwkbcommonutils_cgrect",
+      "community": 2,
+      "norm_label": "cgrect"
+    },
+    {
+      "label": "AppDefines.swift",
+      "file_type": "code",
+      "source_file": "LWKBCommonUtils_swift/Classes/AppDefines.swift",
+      "source_location": "L1",
+      "id": "lwkbcommonutils_swift_classes_appdefines_swift",
+      "community": 3,
+      "norm_label": "appdefines.swift"
+    },
+    {
+      "label": "SystemVersion",
+      "file_type": "code",
+      "source_file": "LWKBCommonUtils_swift/Classes/AppDefines.swift",
+      "source_location": "L13",
+      "id": "classes_appdefines_systemversion",
+      "community": 3,
+      "norm_label": "systemversion"
+    },
+    {
+      "label": ".isEqual()",
+      "file_type": "code",
+      "source_file": "LWKBCommonUtils_swift/Classes/AppDefines.swift",
+      "source_location": "L14",
+      "id": "classes_appdefines_systemversion_isequal",
+      "community": 3,
+      "norm_label": ".isequal()"
+    },
+    {
+      "label": ".isGreaterThan()",
+      "file_type": "code",
+      "source_file": "LWKBCommonUtils_swift/Classes/AppDefines.swift",
+      "source_location": "L18",
+      "id": "classes_appdefines_systemversion_isgreaterthan",
+      "community": 3,
+      "norm_label": ".isgreaterthan()"
+    },
+    {
+      "label": ".isGreaterThanOrEqual()",
+      "file_type": "code",
+      "source_file": "LWKBCommonUtils_swift/Classes/AppDefines.swift",
+      "source_location": "L22",
+      "id": "classes_appdefines_systemversion_isgreaterthanorequal",
+      "community": 3,
+      "norm_label": ".isgreaterthanorequal()"
+    },
+    {
+      "label": ".isLessThan()",
+      "file_type": "code",
+      "source_file": "LWKBCommonUtils_swift/Classes/AppDefines.swift",
+      "source_location": "L26",
+      "id": "classes_appdefines_systemversion_islessthan",
+      "community": 3,
+      "norm_label": ".islessthan()"
+    },
+    {
+      "label": ".isLessThanOrEqual()",
+      "file_type": "code",
+      "source_file": "LWKBCommonUtils_swift/Classes/AppDefines.swift",
+      "source_location": "L30",
+      "id": "classes_appdefines_systemversion_islessthanorequal",
+      "community": 3,
+      "norm_label": ".islessthanorequal()"
+    },
+    {
+      "label": "Log()",
+      "file_type": "code",
+      "source_file": "LWKBCommonUtils_swift/Classes/AppDefines.swift",
+      "source_location": "L37",
+      "id": "classes_appdefines_log",
+      "community": 5,
+      "norm_label": "log()"
+    },
+    {
+      "label": "isChineseSymbol()",
+      "file_type": "code",
+      "source_file": "LWKBCommonUtils_swift/Classes/AppDefines.swift",
+      "source_location": "L51",
+      "id": "classes_appdefines_ischinesesymbol",
+      "community": 3,
+      "norm_label": "ischinesesymbol()"
+    },
+    {
+      "label": "dispatchMainSyncSafe()",
+      "file_type": "code",
+      "source_file": "LWKBCommonUtils_swift/Classes/AppDefines.swift",
+      "source_location": "L58",
+      "id": "classes_appdefines_dispatchmainsyncsafe",
+      "community": 4,
+      "norm_label": "dispatchmainsyncsafe()"
+    },
+    {
+      "label": "Screen",
+      "file_type": "code",
+      "source_file": "LWKBCommonUtils_swift/Classes/AppDefines.swift",
+      "source_location": "L68",
+      "id": "classes_appdefines_screen",
+      "community": 3,
+      "norm_label": "screen"
+    },
+    {
+      "label": "Device",
+      "file_type": "code",
+      "source_file": "LWKBCommonUtils_swift/Classes/AppDefines.swift",
+      "source_location": "L96",
+      "id": "classes_appdefines_device",
+      "community": 3,
+      "norm_label": "device"
+    },
+    {
+      "label": "AppConstants",
+      "file_type": "code",
+      "source_file": "LWKBCommonUtils_swift/Classes/AppDefines.swift",
+      "source_location": "L127",
+      "id": "classes_appdefines_appconstants",
+      "community": 3,
+      "norm_label": "appconstants"
+    },
+    {
+      "label": "LWViewController.h",
+      "file_type": "code",
+      "source_file": "Example/LWKBCommonUtils/LWViewController.h",
+      "source_location": "L1",
+      "id": "example_lwkbcommonutils_lwviewcontroller_h",
+      "community": 12,
+      "norm_label": "lwviewcontroller.h"
+    },
+    {
+      "label": "LWAppDelegate.h",
+      "file_type": "code",
+      "source_file": "Example/LWKBCommonUtils/LWAppDelegate.h",
+      "source_location": "L1",
+      "id": "example_lwkbcommonutils_lwappdelegate_h",
+      "community": 13,
+      "norm_label": "lwappdelegate.h"
+    },
+    {
+      "label": "main.m",
+      "file_type": "code",
+      "source_file": "Example/LWKBCommonUtils/main.m",
+      "source_location": "L1",
+      "id": "example_lwkbcommonutils_main_m",
+      "community": 14,
+      "norm_label": "main.m"
+    },
+    {
+      "label": "LWAppDelegate.m",
+      "file_type": "code",
+      "source_file": "Example/LWKBCommonUtils/LWAppDelegate.m",
+      "source_location": "L1",
+      "id": "example_lwkbcommonutils_lwappdelegate_m",
+      "community": 6,
+      "norm_label": "lwappdelegate.m"
+    },
+    {
+      "label": "LWAppDelegate",
+      "file_type": "code",
+      "source_file": "Example/LWKBCommonUtils/LWAppDelegate.m",
+      "source_location": "L11",
+      "id": "lwkbcommonutils_lwappdelegate_lwappdelegate",
+      "community": 6,
+      "norm_label": "lwappdelegate"
+    },
+    {
+      "label": "-applicationdidFinishLaunchingWithOptions",
+      "file_type": "code",
+      "source_file": "Example/LWKBCommonUtils/LWAppDelegate.m",
+      "source_location": "L13",
+      "id": "lwkbcommonutils_lwappdelegate_lwappdelegate_applicationdidfinishlaunchingwithoptions",
+      "community": 6,
+      "norm_label": "-applicationdidfinishlaunchingwithoptions"
+    },
+    {
+      "label": "-applicationWillResignActive",
+      "file_type": "code",
+      "source_file": "Example/LWKBCommonUtils/LWAppDelegate.m",
+      "source_location": "L19",
+      "id": "lwkbcommonutils_lwappdelegate_lwappdelegate_applicationwillresignactive",
+      "community": 6,
+      "norm_label": "-applicationwillresignactive"
+    },
+    {
+      "label": "-applicationDidEnterBackground",
+      "file_type": "code",
+      "source_file": "Example/LWKBCommonUtils/LWAppDelegate.m",
+      "source_location": "L25",
+      "id": "lwkbcommonutils_lwappdelegate_lwappdelegate_applicationdidenterbackground",
+      "community": 6,
+      "norm_label": "-applicationdidenterbackground"
+    },
+    {
+      "label": "-applicationWillEnterForeground",
+      "file_type": "code",
+      "source_file": "Example/LWKBCommonUtils/LWAppDelegate.m",
+      "source_location": "L31",
+      "id": "lwkbcommonutils_lwappdelegate_lwappdelegate_applicationwillenterforeground",
+      "community": 6,
+      "norm_label": "-applicationwillenterforeground"
+    },
+    {
+      "label": "-applicationDidBecomeActive",
+      "file_type": "code",
+      "source_file": "Example/LWKBCommonUtils/LWAppDelegate.m",
+      "source_location": "L36",
+      "id": "lwkbcommonutils_lwappdelegate_lwappdelegate_applicationdidbecomeactive",
+      "community": 6,
+      "norm_label": "-applicationdidbecomeactive"
+    },
+    {
+      "label": "-applicationWillTerminate",
+      "file_type": "code",
+      "source_file": "Example/LWKBCommonUtils/LWAppDelegate.m",
+      "source_location": "L41",
+      "id": "lwkbcommonutils_lwappdelegate_lwappdelegate_applicationwillterminate",
+      "community": 6,
+      "norm_label": "-applicationwillterminate"
+    },
+    {
+      "label": "LWViewController.m",
+      "file_type": "code",
+      "source_file": "Example/LWKBCommonUtils/LWViewController.m",
+      "source_location": "L1",
+      "id": "example_lwkbcommonutils_lwviewcontroller_m",
+      "community": 9,
+      "norm_label": "lwviewcontroller.m"
+    },
+    {
+      "label": "LWViewController",
+      "file_type": "code",
+      "source_file": "Example/LWKBCommonUtils/LWViewController.m",
+      "source_location": "L11",
+      "id": "lwkbcommonutils_lwviewcontroller_lwviewcontroller",
+      "community": 9,
+      "norm_label": "lwviewcontroller"
+    },
+    {
+      "label": "-viewDidLoad",
+      "file_type": "code",
+      "source_file": "Example/LWKBCommonUtils/LWViewController.m",
+      "source_location": "L17",
+      "id": "lwkbcommonutils_lwviewcontroller_lwviewcontroller_viewdidload",
+      "community": 9,
+      "norm_label": "-viewdidload"
+    },
+    {
+      "label": "-didReceiveMemoryWarning",
+      "file_type": "code",
+      "source_file": "Example/LWKBCommonUtils/LWViewController.m",
+      "source_location": "L23",
+      "id": "lwkbcommonutils_lwviewcontroller_lwviewcontroller_didreceivememorywarning",
+      "community": 9,
+      "norm_label": "-didreceivememorywarning"
+    },
+    {
+      "label": "Tests.m",
+      "file_type": "code",
+      "source_file": "Example/Tests/Tests.m",
+      "source_location": "L1",
+      "id": "example_tests_tests_m",
+      "community": 8,
+      "norm_label": "tests.m"
+    },
+    {
+      "label": "Tests",
+      "file_type": "code",
+      "source_file": "Example/Tests/Tests.m",
+      "source_location": "L11",
+      "id": "tests_tests_tests",
+      "community": 8,
+      "norm_label": "tests"
+    },
+    {
+      "label": "-setUp",
+      "file_type": "code",
+      "source_file": "Example/Tests/Tests.m",
+      "source_location": "L17",
+      "id": "tests_tests_tests_setup",
+      "community": 8,
+      "norm_label": "-setup"
+    },
+    {
+      "label": "-tearDown",
+      "file_type": "code",
+      "source_file": "Example/Tests/Tests.m",
+      "source_location": "L23",
+      "id": "tests_tests_tests_teardown",
+      "community": 8,
+      "norm_label": "-teardown"
+    },
+    {
+      "label": "-testExample",
+      "file_type": "code",
+      "source_file": "Example/Tests/Tests.m",
+      "source_location": "L29",
+      "id": "tests_tests_tests_testexample",
+      "community": 8,
+      "norm_label": "-testexample"
+    }
+  ],
+  "links": [
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "LWKBCommonUtils/Classes/LWDataPipeManager.m",
+      "source_location": "L9",
+      "weight": 1.0,
+      "source": "lwkbcommonutils_classes_lwdatapipemanager_m",
+      "target": "classes_lwdatapipemanager_lwdatapipemanager",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "method",
+      "confidence": "EXTRACTED",
+      "source_file": "LWKBCommonUtils/Classes/LWDataPipeManager.m",
+      "source_location": "L13",
+      "weight": 1.0,
+      "source": "classes_lwdatapipemanager_lwdatapipemanager",
+      "target": "classes_lwdatapipemanager_lwdatapipemanager_getvaluebykey",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "method",
+      "confidence": "EXTRACTED",
+      "source_file": "LWKBCommonUtils/Classes/LWDataPipeManager.m",
+      "source_location": "L22",
+      "weight": 1.0,
+      "source": "classes_lwdatapipemanager_lwdatapipemanager",
+      "target": "classes_lwdatapipemanager_lwdatapipemanager_setvaluekey",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "method",
+      "confidence": "EXTRACTED",
+      "source_file": "LWKBCommonUtils/Classes/LWDataPipeManager.m",
+      "source_location": "L29",
+      "weight": 1.0,
+      "source": "classes_lwdatapipemanager_lwdatapipemanager",
+      "target": "classes_lwdatapipemanager_lwdatapipemanager_getuserdefaultvaluebykey",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "method",
+      "confidence": "EXTRACTED",
+      "source_file": "LWKBCommonUtils/Classes/LWDataPipeManager.m",
+      "source_location": "L35",
+      "weight": 1.0,
+      "source": "classes_lwdatapipemanager_lwdatapipemanager",
+      "target": "classes_lwdatapipemanager_lwdatapipemanager_setuserdefaultvaluewithkey",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "method",
+      "confidence": "EXTRACTED",
+      "source_file": "LWKBCommonUtils/Classes/LWDataPipeManager.m",
+      "source_location": "L42",
+      "weight": 1.0,
+      "source": "classes_lwdatapipemanager_lwdatapipemanager",
+      "target": "classes_lwdatapipemanager_lwdatapipemanager_getmyinputmethodappgroupvaluebykey",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "method",
+      "confidence": "EXTRACTED",
+      "source_file": "LWKBCommonUtils/Classes/LWDataPipeManager.m",
+      "source_location": "L48",
+      "weight": 1.0,
+      "source": "classes_lwdatapipemanager_lwdatapipemanager",
+      "target": "classes_lwdatapipemanager_lwdatapipemanager_setmyinputmethodappgroupvaluewithkey",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "LWKBCommonUtils_swift/Classes/LWDataPipeManager.swift",
+      "source_location": "L124",
+      "weight": 1.0,
+      "source": "lwkbcommonutils_swift_classes_lwdatapipemanager_swift",
+      "target": "classes_lwdatapipemanager_lwdatapipemanager",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "method",
+      "confidence": "EXTRACTED",
+      "source_file": "LWKBCommonUtils_swift/Classes/LWDataPipeManager.swift",
+      "source_location": "L17",
+      "weight": 1.0,
+      "source": "classes_lwdatapipemanager_lwdatapipemanager",
+      "target": "classes_lwdatapipemanager_lwdatapipemanager_getvalue",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "method",
+      "confidence": "EXTRACTED",
+      "source_file": "LWKBCommonUtils_swift/Classes/LWDataPipeManager.swift",
+      "source_location": "L30",
+      "weight": 1.0,
+      "source": "classes_lwdatapipemanager_lwdatapipemanager",
+      "target": "classes_lwdatapipemanager_lwdatapipemanager_setvalue",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "method",
+      "confidence": "EXTRACTED",
+      "source_file": "LWKBCommonUtils_swift/Classes/LWDataPipeManager.swift",
+      "source_location": "L38",
+      "weight": 1.0,
+      "source": "classes_lwdatapipemanager_lwdatapipemanager",
+      "target": "classes_lwdatapipemanager_lwdatapipemanager_getuserdefaultvalue",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "method",
+      "confidence": "EXTRACTED",
+      "source_file": "LWKBCommonUtils_swift/Classes/LWDataPipeManager.swift",
+      "source_location": "L43",
+      "weight": 1.0,
+      "source": "classes_lwdatapipemanager_lwdatapipemanager",
+      "target": "classes_lwdatapipemanager_lwdatapipemanager_setuserdefaultvalue",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "method",
+      "confidence": "EXTRACTED",
+      "source_file": "LWKBCommonUtils_swift/Classes/LWDataPipeManager.swift",
+      "source_location": "L51",
+      "weight": 1.0,
+      "source": "classes_lwdatapipemanager_lwdatapipemanager",
+      "target": "classes_lwdatapipemanager_lwdatapipemanager_getappgroupvalue",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "method",
+      "confidence": "EXTRACTED",
+      "source_file": "LWKBCommonUtils_swift/Classes/LWDataPipeManager.swift",
+      "source_location": "L59",
+      "weight": 1.0,
+      "source": "classes_lwdatapipemanager_lwdatapipemanager",
+      "target": "classes_lwdatapipemanager_lwdatapipemanager_setappgroupvalue",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "method",
+      "confidence": "EXTRACTED",
+      "source_file": "LWKBCommonUtils_swift/Classes/LWDataPipeManager.swift",
+      "source_location": "L70",
+      "weight": 1.0,
+      "source": "classes_lwdatapipemanager_lwdatapipemanager",
+      "target": "classes_lwdatapipemanager_lwdatapipemanager_getmyinputmethodappgroupvalue",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "method",
+      "confidence": "EXTRACTED",
+      "source_file": "LWKBCommonUtils_swift/Classes/LWDataPipeManager.swift",
+      "source_location": "L76",
+      "weight": 1.0,
+      "source": "classes_lwdatapipemanager_lwdatapipemanager",
+      "target": "classes_lwdatapipemanager_lwdatapipemanager_setmyinputmethodappgroupvalue",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "method",
+      "confidence": "EXTRACTED",
+      "source_file": "LWKBCommonUtils_swift/Classes/LWDataPipeManager.swift",
+      "source_location": "L87",
+      "weight": 1.0,
+      "source": "classes_lwdatapipemanager_lwdatapipemanager",
+      "target": "classes_lwdatapipemanager_lwdatapipemanager_getstring",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "method",
+      "confidence": "EXTRACTED",
+      "source_file": "LWKBCommonUtils_swift/Classes/LWDataPipeManager.swift",
+      "source_location": "L92",
+      "weight": 1.0,
+      "source": "classes_lwdatapipemanager_lwdatapipemanager",
+      "target": "classes_lwdatapipemanager_lwdatapipemanager_getint",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "method",
+      "confidence": "EXTRACTED",
+      "source_file": "LWKBCommonUtils_swift/Classes/LWDataPipeManager.swift",
+      "source_location": "L97",
+      "weight": 1.0,
+      "source": "classes_lwdatapipemanager_lwdatapipemanager",
+      "target": "classes_lwdatapipemanager_lwdatapipemanager_getbool",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "method",
+      "confidence": "EXTRACTED",
+      "source_file": "LWKBCommonUtils_swift/Classes/LWDataPipeManager.swift",
+      "source_location": "L102",
+      "weight": 1.0,
+      "source": "classes_lwdatapipemanager_lwdatapipemanager",
+      "target": "classes_lwdatapipemanager_lwdatapipemanager_getdouble",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "method",
+      "confidence": "EXTRACTED",
+      "source_file": "LWKBCommonUtils_swift/Classes/LWDataPipeManager.swift",
+      "source_location": "L107",
+      "weight": 1.0,
+      "source": "classes_lwdatapipemanager_lwdatapipemanager",
+      "target": "classes_lwdatapipemanager_lwdatapipemanager_getarray",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "method",
+      "confidence": "EXTRACTED",
+      "source_file": "LWKBCommonUtils_swift/Classes/LWDataPipeManager.swift",
+      "source_location": "L112",
+      "weight": 1.0,
+      "source": "classes_lwdatapipemanager_lwdatapipemanager",
+      "target": "classes_lwdatapipemanager_lwdatapipemanager_getdictionary",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "method",
+      "confidence": "EXTRACTED",
+      "source_file": "LWKBCommonUtils_swift/Classes/LWDataPipeManager.swift",
+      "source_location": "L117",
+      "weight": 1.0,
+      "source": "classes_lwdatapipemanager_lwdatapipemanager",
+      "target": "classes_lwdatapipemanager_lwdatapipemanager_getdata",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "method",
+      "confidence": "EXTRACTED",
+      "source_file": "LWKBCommonUtils_swift/Classes/LWDataPipeManager.swift",
+      "source_location": "L127",
+      "weight": 1.0,
+      "source": "classes_lwdatapipemanager_lwdatapipemanager",
+      "target": "classes_lwdatapipemanager_lwdatapipemanager_setcodable",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "method",
+      "confidence": "EXTRACTED",
+      "source_file": "LWKBCommonUtils_swift/Classes/LWDataPipeManager.swift",
+      "source_location": "L133",
+      "weight": 1.0,
+      "source": "classes_lwdatapipemanager_lwdatapipemanager",
+      "target": "classes_lwdatapipemanager_lwdatapipemanager_getcodable",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "LWKBCommonUtils_swift/Classes/SwiftUIExtensions.swift",
+      "source_location": "L13",
+      "weight": 1.0,
+      "source": "lwkbcommonutils_swift_classes_swiftuiextensions_swift",
+      "target": "classes_swiftuiextensions_deviceinfo",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "LWKBCommonUtils_swift/Classes/SwiftUIExtensions.swift",
+      "source_location": "L254",
+      "weight": 1.0,
+      "source": "lwkbcommonutils_swift_classes_swiftuiextensions_swift",
+      "target": "classes_swiftuiextensions_view",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "LWKBCommonUtils_swift/Classes/SwiftUIExtensions.swift",
+      "source_location": "L81",
+      "weight": 1.0,
+      "source": "lwkbcommonutils_swift_classes_swiftuiextensions_swift",
+      "target": "classes_swiftuiextensions_mainthreadmodifier",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "LWKBCommonUtils_swift/Classes/SwiftUIExtensions.swift",
+      "source_location": "L94",
+      "weight": 1.0,
+      "source": "lwkbcommonutils_swift_classes_swiftuiextensions_swift",
+      "target": "classes_swiftuiextensions_color",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "LWKBCommonUtils_swift/Classes/SwiftUIExtensions.swift",
+      "source_location": "L126",
+      "weight": 1.0,
+      "source": "lwkbcommonutils_swift_classes_swiftuiextensions_swift",
+      "target": "classes_swiftuiextensions_screensize",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "LWKBCommonUtils_swift/Classes/SwiftUIExtensions.swift",
+      "source_location": "L138",
+      "weight": 1.0,
+      "source": "lwkbcommonutils_swift_classes_swiftuiextensions_swift",
+      "target": "classes_swiftuiextensions_geometryproxy",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "LWKBCommonUtils_swift/Classes/SwiftUIExtensions.swift",
+      "source_location": "L147",
+      "weight": 1.0,
+      "source": "lwkbcommonutils_swift_classes_swiftuiextensions_swift",
+      "target": "classes_swiftuiextensions_appgroupkey",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "LWKBCommonUtils_swift/Classes/SwiftUIExtensions.swift",
+      "source_location": "L152",
+      "weight": 1.0,
+      "source": "lwkbcommonutils_swift_classes_swiftuiextensions_swift",
+      "target": "classes_swiftuiextensions_environmentvalues",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "LWKBCommonUtils_swift/Classes/SwiftUIExtensions.swift",
+      "source_location": "L162",
+      "weight": 1.0,
+      "source": "lwkbcommonutils_swift_classes_swiftuiextensions_swift",
+      "target": "classes_swiftuiextensions_appstorage",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "LWKBCommonUtils_swift/Classes/SwiftUIExtensions.swift",
+      "source_location": "L183",
+      "weight": 1.0,
+      "source": "lwkbcommonutils_swift_classes_swiftuiextensions_swift",
+      "target": "classes_swiftuiextensions_appgroupstorage",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "LWKBCommonUtils_swift/Classes/SwiftUIExtensions.swift",
+      "source_location": "L225",
+      "weight": 1.0,
+      "source": "lwkbcommonutils_swift_classes_swiftuiextensions_swift",
+      "target": "classes_swiftuiextensions_orientationinfo",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "LWKBCommonUtils_swift/Classes/SwiftUIExtensions.swift",
+      "source_location": "L245",
+      "weight": 1.0,
+      "source": "lwkbcommonutils_swift_classes_swiftuiextensions_swift",
+      "target": "classes_swiftuiextensions_safeareainsetskey",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "method",
+      "confidence": "EXTRACTED",
+      "source_file": "LWKBCommonUtils_swift/Classes/SwiftUIExtensions.swift",
+      "source_location": "L46",
+      "weight": 1.0,
+      "source": "classes_swiftuiextensions_view",
+      "target": "classes_swiftuiextensions_view_onmainthread",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "method",
+      "confidence": "EXTRACTED",
+      "source_file": "LWKBCommonUtils_swift/Classes/SwiftUIExtensions.swift",
+      "source_location": "L51",
+      "weight": 1.0,
+      "source": "classes_swiftuiextensions_view",
+      "target": "classes_swiftuiextensions_view_if",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "method",
+      "confidence": "EXTRACTED",
+      "source_file": "LWKBCommonUtils_swift/Classes/SwiftUIExtensions.swift",
+      "source_location": "L61",
+      "weight": 1.0,
+      "source": "classes_swiftuiextensions_view",
+      "target": "classes_swiftuiextensions_view_iflet",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "method",
+      "confidence": "EXTRACTED",
+      "source_file": "LWKBCommonUtils_swift/Classes/SwiftUIExtensions.swift",
+      "source_location": "L71",
+      "weight": 1.0,
+      "source": "classes_swiftuiextensions_view",
+      "target": "classes_swiftuiextensions_view_hidden",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "method",
+      "confidence": "EXTRACTED",
+      "source_file": "LWKBCommonUtils_swift/Classes/SwiftUIExtensions.swift",
+      "source_location": "L208",
+      "weight": 1.0,
+      "source": "classes_swiftuiextensions_view",
+      "target": "classes_swiftuiextensions_view_debuglog",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "method",
+      "confidence": "EXTRACTED",
+      "source_file": "LWKBCommonUtils_swift/Classes/SwiftUIExtensions.swift",
+      "source_location": "L215",
+      "weight": 1.0,
+      "source": "classes_swiftuiextensions_view",
+      "target": "classes_swiftuiextensions_view_debugprint",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "method",
+      "confidence": "EXTRACTED",
+      "source_file": "LWKBCommonUtils_swift/Classes/SwiftUIExtensions.swift",
+      "source_location": "L256",
+      "weight": 1.0,
+      "source": "classes_swiftuiextensions_view",
+      "target": "classes_swiftuiextensions_view_readsafeareainsets",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "calls",
+      "context": "call",
+      "confidence": "EXTRACTED",
+      "source_file": "LWKBCommonUtils_swift/Classes/SwiftUIExtensions.swift",
+      "source_location": "L47",
+      "weight": 1.0,
+      "source": "classes_swiftuiextensions_view_onmainthread",
+      "target": "classes_swiftuiextensions_mainthreadmodifier",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "inherits",
+      "confidence": "EXTRACTED",
+      "source_file": "LWKBCommonUtils_swift/Classes/SwiftUIExtensions.swift",
+      "source_location": "L81",
+      "weight": 1.0,
+      "source": "classes_swiftuiextensions_mainthreadmodifier",
+      "target": "viewmodifier",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "method",
+      "confidence": "EXTRACTED",
+      "source_file": "LWKBCommonUtils_swift/Classes/SwiftUIExtensions.swift",
+      "source_location": "L85",
+      "weight": 1.0,
+      "source": "classes_swiftuiextensions_mainthreadmodifier",
+      "target": "classes_swiftuiextensions_mainthreadmodifier_body",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "calls",
+      "context": "call",
+      "confidence": "INFERRED",
+      "confidence_score": 0.8,
+      "source_file": "LWKBCommonUtils_swift/Classes/SwiftUIExtensions.swift",
+      "source_location": "L87",
+      "weight": 1.0,
+      "source": "classes_swiftuiextensions_mainthreadmodifier_body",
+      "target": "classes_appdefines_dispatchmainsyncsafe"
+    },
+    {
+      "relation": "method",
+      "confidence": "EXTRACTED",
+      "source_file": "LWKBCommonUtils_swift/Classes/SwiftUIExtensions.swift",
+      "source_location": "L98",
+      "weight": 1.0,
+      "source": "classes_swiftuiextensions_color",
+      "target": "classes_swiftuiextensions_color_init",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "calls",
+      "context": "call",
+      "confidence": "EXTRACTED",
+      "source_file": "LWKBCommonUtils_swift/Classes/SwiftUIExtensions.swift",
+      "source_location": "L114",
+      "weight": 1.0,
+      "source": "classes_swiftuiextensions_color_init",
+      "target": "classes_swiftuiextensions_appgroupstorage_init",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "inherits",
+      "confidence": "EXTRACTED",
+      "source_file": "LWKBCommonUtils_swift/Classes/SwiftUIExtensions.swift",
+      "source_location": "L147",
+      "weight": 1.0,
+      "source": "classes_swiftuiextensions_appgroupkey",
+      "target": "environmentkey",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "method",
+      "confidence": "EXTRACTED",
+      "source_file": "LWKBCommonUtils_swift/Classes/SwiftUIExtensions.swift",
+      "source_location": "L177",
+      "weight": 1.0,
+      "source": "classes_swiftuiextensions_appstorage",
+      "target": "classes_swiftuiextensions_appstorage_init",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "method",
+      "confidence": "EXTRACTED",
+      "source_file": "LWKBCommonUtils_swift/Classes/SwiftUIExtensions.swift",
+      "source_location": "L198",
+      "weight": 1.0,
+      "source": "classes_swiftuiextensions_appgroupstorage",
+      "target": "classes_swiftuiextensions_appgroupstorage_init",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "calls",
+      "context": "call",
+      "confidence": "INFERRED",
+      "confidence_score": 0.8,
+      "source_file": "LWKBCommonUtils_swift/Classes/SwiftUIExtensions.swift",
+      "source_location": "L210",
+      "weight": 1.0,
+      "source": "classes_swiftuiextensions_view_debuglog",
+      "target": "classes_appdefines_log"
+    },
+    {
+      "relation": "inherits",
+      "confidence": "EXTRACTED",
+      "source_file": "LWKBCommonUtils_swift/Classes/SwiftUIExtensions.swift",
+      "source_location": "L245",
+      "weight": 1.0,
+      "source": "classes_swiftuiextensions_safeareainsetskey",
+      "target": "preferencekey",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "method",
+      "confidence": "EXTRACTED",
+      "source_file": "LWKBCommonUtils_swift/Classes/SwiftUIExtensions.swift",
+      "source_location": "L249",
+      "weight": 1.0,
+      "source": "classes_swiftuiextensions_safeareainsetskey",
+      "target": "classes_swiftuiextensions_safeareainsetskey_reduce",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "calls",
+      "context": "call",
+      "confidence": "EXTRACTED",
+      "source_file": "LWKBCommonUtils_swift/Classes/LWDataPipeManager.swift",
+      "source_location": "L18",
+      "weight": 1.0,
+      "source": "classes_lwdatapipemanager_lwdatapipemanager_getvalue",
+      "target": "classes_lwdatapipemanager_lwdatapipemanager_getappgroupvalue",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "calls",
+      "context": "call",
+      "confidence": "EXTRACTED",
+      "source_file": "LWKBCommonUtils_swift/Classes/LWDataPipeManager.swift",
+      "source_location": "L22",
+      "weight": 1.0,
+      "source": "classes_lwdatapipemanager_lwdatapipemanager_getvalue",
+      "target": "classes_lwdatapipemanager_lwdatapipemanager_getuserdefaultvalue",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "calls",
+      "context": "call",
+      "confidence": "EXTRACTED",
+      "source_file": "LWKBCommonUtils_swift/Classes/LWDataPipeManager.swift",
+      "source_location": "L24",
+      "weight": 1.0,
+      "source": "classes_lwdatapipemanager_lwdatapipemanager_getvalue",
+      "target": "classes_lwdatapipemanager_lwdatapipemanager_setappgroupvalue",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "calls",
+      "context": "call",
+      "confidence": "EXTRACTED",
+      "source_file": "LWKBCommonUtils_swift/Classes/LWDataPipeManager.swift",
+      "source_location": "L88",
+      "weight": 1.0,
+      "source": "classes_lwdatapipemanager_lwdatapipemanager_getstring",
+      "target": "classes_lwdatapipemanager_lwdatapipemanager_getvalue",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "calls",
+      "context": "call",
+      "confidence": "EXTRACTED",
+      "source_file": "LWKBCommonUtils_swift/Classes/LWDataPipeManager.swift",
+      "source_location": "L93",
+      "weight": 1.0,
+      "source": "classes_lwdatapipemanager_lwdatapipemanager_getint",
+      "target": "classes_lwdatapipemanager_lwdatapipemanager_getvalue",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "calls",
+      "context": "call",
+      "confidence": "EXTRACTED",
+      "source_file": "LWKBCommonUtils_swift/Classes/LWDataPipeManager.swift",
+      "source_location": "L98",
+      "weight": 1.0,
+      "source": "classes_lwdatapipemanager_lwdatapipemanager_getbool",
+      "target": "classes_lwdatapipemanager_lwdatapipemanager_getvalue",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "calls",
+      "context": "call",
+      "confidence": "EXTRACTED",
+      "source_file": "LWKBCommonUtils_swift/Classes/LWDataPipeManager.swift",
+      "source_location": "L103",
+      "weight": 1.0,
+      "source": "classes_lwdatapipemanager_lwdatapipemanager_getdouble",
+      "target": "classes_lwdatapipemanager_lwdatapipemanager_getvalue",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "calls",
+      "context": "call",
+      "confidence": "EXTRACTED",
+      "source_file": "LWKBCommonUtils_swift/Classes/LWDataPipeManager.swift",
+      "source_location": "L108",
+      "weight": 1.0,
+      "source": "classes_lwdatapipemanager_lwdatapipemanager_getarray",
+      "target": "classes_lwdatapipemanager_lwdatapipemanager_getvalue",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "calls",
+      "context": "call",
+      "confidence": "EXTRACTED",
+      "source_file": "LWKBCommonUtils_swift/Classes/LWDataPipeManager.swift",
+      "source_location": "L113",
+      "weight": 1.0,
+      "source": "classes_lwdatapipemanager_lwdatapipemanager_getdictionary",
+      "target": "classes_lwdatapipemanager_lwdatapipemanager_getvalue",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "calls",
+      "context": "call",
+      "confidence": "EXTRACTED",
+      "source_file": "LWKBCommonUtils_swift/Classes/LWDataPipeManager.swift",
+      "source_location": "L118",
+      "weight": 1.0,
+      "source": "classes_lwdatapipemanager_lwdatapipemanager_getdata",
+      "target": "classes_lwdatapipemanager_lwdatapipemanager_getvalue",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "calls",
+      "context": "call",
+      "confidence": "EXTRACTED",
+      "source_file": "LWKBCommonUtils_swift/Classes/LWDataPipeManager.swift",
+      "source_location": "L31",
+      "weight": 1.0,
+      "source": "classes_lwdatapipemanager_lwdatapipemanager_setvalue",
+      "target": "classes_lwdatapipemanager_lwdatapipemanager_setuserdefaultvalue",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "calls",
+      "context": "call",
+      "confidence": "EXTRACTED",
+      "source_file": "LWKBCommonUtils_swift/Classes/LWDataPipeManager.swift",
+      "source_location": "L32",
+      "weight": 1.0,
+      "source": "classes_lwdatapipemanager_lwdatapipemanager_setvalue",
+      "target": "classes_lwdatapipemanager_lwdatapipemanager_setappgroupvalue",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "calls",
+      "context": "call",
+      "confidence": "EXTRACTED",
+      "source_file": "LWKBCommonUtils_swift/Classes/LWDataPipeManager.swift",
+      "source_location": "L129",
+      "weight": 1.0,
+      "source": "classes_lwdatapipemanager_lwdatapipemanager_setcodable",
+      "target": "classes_lwdatapipemanager_lwdatapipemanager_setvalue",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "calls",
+      "context": "call",
+      "confidence": "EXTRACTED",
+      "source_file": "LWKBCommonUtils_swift/Classes/LWDataPipeManager.swift",
+      "source_location": "L72",
+      "weight": 1.0,
+      "source": "classes_lwdatapipemanager_lwdatapipemanager_getmyinputmethodappgroupvalue",
+      "target": "classes_lwdatapipemanager_lwdatapipemanager_getappgroupvalue",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "calls",
+      "context": "call",
+      "confidence": "INFERRED",
+      "confidence_score": 0.8,
+      "source_file": "LWKBCommonUtils_swift/Classes/LWDataPipeManager.swift",
+      "source_location": "L52",
+      "weight": 1.0,
+      "source": "classes_lwdatapipemanager_lwdatapipemanager_getappgroupvalue",
+      "target": "classes_lwkbcommonutils_userdefaults"
+    },
+    {
+      "relation": "calls",
+      "context": "call",
+      "confidence": "EXTRACTED",
+      "source_file": "LWKBCommonUtils_swift/Classes/LWDataPipeManager.swift",
+      "source_location": "L78",
+      "weight": 1.0,
+      "source": "classes_lwdatapipemanager_lwdatapipemanager_setmyinputmethodappgroupvalue",
+      "target": "classes_lwdatapipemanager_lwdatapipemanager_setappgroupvalue",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "calls",
+      "context": "call",
+      "confidence": "INFERRED",
+      "confidence_score": 0.8,
+      "source_file": "LWKBCommonUtils_swift/Classes/LWDataPipeManager.swift",
+      "source_location": "L60",
+      "weight": 1.0,
+      "source": "classes_lwdatapipemanager_lwdatapipemanager_setappgroupvalue",
+      "target": "classes_lwkbcommonutils_userdefaults"
+    },
+    {
+      "relation": "calls",
+      "context": "call",
+      "confidence": "EXTRACTED",
+      "source_file": "LWKBCommonUtils_swift/Classes/LWDataPipeManager.swift",
+      "source_location": "L134",
+      "weight": 1.0,
+      "source": "classes_lwdatapipemanager_lwdatapipemanager_getcodable",
+      "target": "classes_lwdatapipemanager_lwdatapipemanager_getdata",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "LWKBCommonUtils_swift/Classes/LWKBCommonUtils.swift",
+      "source_location": "L14",
+      "weight": 1.0,
+      "source": "lwkbcommonutils_swift_classes_lwkbcommonutils_swift",
+      "target": "classes_lwkbcommonutils_lwkbcommonutils",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "LWKBCommonUtils_swift/Classes/LWKBCommonUtils.swift",
+      "source_location": "L31",
+      "weight": 1.0,
+      "source": "lwkbcommonutils_swift_classes_lwkbcommonutils_swift",
+      "target": "classes_lwkbcommonutils_screendimensions",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "LWKBCommonUtils_swift/Classes/LWKBCommonUtils.swift",
+      "source_location": "L41",
+      "weight": 1.0,
+      "source": "lwkbcommonutils_swift_classes_lwkbcommonutils_swift",
+      "target": "classes_lwkbcommonutils_devicetype",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "LWKBCommonUtils_swift/Classes/LWKBCommonUtils.swift",
+      "source_location": "L113",
+      "weight": 1.0,
+      "source": "lwkbcommonutils_swift_classes_lwkbcommonutils_swift",
+      "target": "classes_lwkbcommonutils_string",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "LWKBCommonUtils_swift/Classes/LWKBCommonUtils.swift",
+      "source_location": "L62",
+      "weight": 1.0,
+      "source": "lwkbcommonutils_swift_classes_lwkbcommonutils_swift",
+      "target": "classes_lwkbcommonutils_bundle",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "LWKBCommonUtils_swift/Classes/LWKBCommonUtils.swift",
+      "source_location": "L71",
+      "weight": 1.0,
+      "source": "lwkbcommonutils_swift_classes_lwkbcommonutils_swift",
+      "target": "classes_lwkbcommonutils_dispatchqueue",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "LWKBCommonUtils_swift/Classes/LWKBCommonUtils.swift",
+      "source_location": "L85",
+      "weight": 1.0,
+      "source": "lwkbcommonutils_swift_classes_lwkbcommonutils_swift",
+      "target": "classes_lwkbcommonutils_userdefaults",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "LWKBCommonUtils_swift/Classes/LWKBCommonUtils.swift",
+      "source_location": "L95",
+      "weight": 1.0,
+      "source": "lwkbcommonutils_swift_classes_lwkbcommonutils_swift",
+      "target": "classes_lwkbcommonutils_weak",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "LWKBCommonUtils_swift/Classes/LWKBCommonUtils.swift",
+      "source_location": "L104",
+      "weight": 1.0,
+      "source": "lwkbcommonutils_swift_classes_lwkbcommonutils_swift",
+      "target": "classes_lwkbcommonutils_withweakself",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "LWKBCommonUtils_swift/Classes/LWKBCommonUtils.swift",
+      "source_location": "L137",
+      "weight": 1.0,
+      "source": "lwkbcommonutils_swift_classes_lwkbcommonutils_swift",
+      "target": "classes_lwkbcommonutils_cgfloat",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "LWKBCommonUtils_swift/Classes/LWKBCommonUtils.swift",
+      "source_location": "L151",
+      "weight": 1.0,
+      "source": "lwkbcommonutils_swift_classes_lwkbcommonutils_swift",
+      "target": "classes_lwkbcommonutils_cgrect",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "method",
+      "confidence": "EXTRACTED",
+      "source_file": "LWKBCommonUtils_swift/Classes/LWKBCommonUtils.swift",
+      "source_location": "L19",
+      "weight": 1.0,
+      "source": "classes_lwkbcommonutils_lwkbcommonutils",
+      "target": "classes_lwkbcommonutils_lwkbcommonutils_configure",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "method",
+      "confidence": "EXTRACTED",
+      "source_file": "LWKBCommonUtils_swift/Classes/LWKBCommonUtils.swift",
+      "source_location": "L115",
+      "weight": 1.0,
+      "source": "classes_lwkbcommonutils_string",
+      "target": "classes_lwkbcommonutils_string_compareversion",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "method",
+      "confidence": "EXTRACTED",
+      "source_file": "LWKBCommonUtils_swift/Classes/LWKBCommonUtils.swift",
+      "source_location": "L120",
+      "weight": 1.0,
+      "source": "classes_lwkbcommonutils_string",
+      "target": "classes_lwkbcommonutils_string_isversiongreaterthan",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "method",
+      "confidence": "EXTRACTED",
+      "source_file": "LWKBCommonUtils_swift/Classes/LWKBCommonUtils.swift",
+      "source_location": "L125",
+      "weight": 1.0,
+      "source": "classes_lwkbcommonutils_string",
+      "target": "classes_lwkbcommonutils_string_isversionlessthan",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "method",
+      "confidence": "EXTRACTED",
+      "source_file": "LWKBCommonUtils_swift/Classes/LWKBCommonUtils.swift",
+      "source_location": "L130",
+      "weight": 1.0,
+      "source": "classes_lwkbcommonutils_string",
+      "target": "classes_lwkbcommonutils_string_isversionequal",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "method",
+      "confidence": "EXTRACTED",
+      "source_file": "LWKBCommonUtils_swift/Classes/LWKBCommonUtils.swift",
+      "source_location": "L73",
+      "weight": 1.0,
+      "source": "classes_lwkbcommonutils_dispatchqueue",
+      "target": "classes_lwkbcommonutils_dispatchqueue_mainsyncsafe",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "method",
+      "confidence": "EXTRACTED",
+      "source_file": "LWKBCommonUtils_swift/Classes/LWKBCommonUtils.swift",
+      "source_location": "L78",
+      "weight": 1.0,
+      "source": "classes_lwkbcommonutils_dispatchqueue",
+      "target": "classes_lwkbcommonutils_dispatchqueue_mainasync",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "calls",
+      "context": "call",
+      "confidence": "INFERRED",
+      "confidence_score": 0.8,
+      "source_file": "LWKBCommonUtils_swift/Classes/LWKBCommonUtils.swift",
+      "source_location": "L74",
+      "weight": 1.0,
+      "source": "classes_lwkbcommonutils_dispatchqueue_mainsyncsafe",
+      "target": "classes_appdefines_dispatchmainsyncsafe"
+    },
+    {
+      "relation": "calls",
+      "confidence": "EXTRACTED",
+      "source_file": "LWKBCommonUtils_swift/Classes/LWKBCommonUtils.swift",
+      "source_location": "L88",
+      "weight": 1.0,
+      "context": "call",
+      "source": "classes_lwkbcommonutils_userdefaults_appgroup",
+      "target": "classes_lwkbcommonutils_userdefaults",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "method",
+      "confidence": "EXTRACTED",
+      "source_file": "LWKBCommonUtils_swift/Classes/LWKBCommonUtils.swift",
+      "source_location": "L98",
+      "weight": 1.0,
+      "source": "classes_lwkbcommonutils_weak",
+      "target": "classes_lwkbcommonutils_weak_init",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "calls",
+      "context": "call",
+      "confidence": "EXTRACTED",
+      "source_file": "LWKBCommonUtils_swift/Classes/LWKBCommonUtils.swift",
+      "source_location": "L121",
+      "weight": 1.0,
+      "source": "classes_lwkbcommonutils_string_isversiongreaterthan",
+      "target": "classes_lwkbcommonutils_string_compareversion",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "calls",
+      "context": "call",
+      "confidence": "EXTRACTED",
+      "source_file": "LWKBCommonUtils_swift/Classes/LWKBCommonUtils.swift",
+      "source_location": "L126",
+      "weight": 1.0,
+      "source": "classes_lwkbcommonutils_string_isversionlessthan",
+      "target": "classes_lwkbcommonutils_string_compareversion",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "calls",
+      "context": "call",
+      "confidence": "EXTRACTED",
+      "source_file": "LWKBCommonUtils_swift/Classes/LWKBCommonUtils.swift",
+      "source_location": "L131",
+      "weight": 1.0,
+      "source": "classes_lwkbcommonutils_string_isversionequal",
+      "target": "classes_lwkbcommonutils_string_compareversion",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "LWKBCommonUtils_swift/Classes/AppDefines.swift",
+      "source_location": "L13",
+      "weight": 1.0,
+      "source": "lwkbcommonutils_swift_classes_appdefines_swift",
+      "target": "classes_appdefines_systemversion",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "LWKBCommonUtils_swift/Classes/AppDefines.swift",
+      "source_location": "L37",
+      "weight": 1.0,
+      "source": "lwkbcommonutils_swift_classes_appdefines_swift",
+      "target": "classes_appdefines_log",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "LWKBCommonUtils_swift/Classes/AppDefines.swift",
+      "source_location": "L51",
+      "weight": 1.0,
+      "source": "lwkbcommonutils_swift_classes_appdefines_swift",
+      "target": "classes_appdefines_ischinesesymbol",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "LWKBCommonUtils_swift/Classes/AppDefines.swift",
+      "source_location": "L58",
+      "weight": 1.0,
+      "source": "lwkbcommonutils_swift_classes_appdefines_swift",
+      "target": "classes_appdefines_dispatchmainsyncsafe",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "LWKBCommonUtils_swift/Classes/AppDefines.swift",
+      "source_location": "L68",
+      "weight": 1.0,
+      "source": "lwkbcommonutils_swift_classes_appdefines_swift",
+      "target": "classes_appdefines_screen",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "LWKBCommonUtils_swift/Classes/AppDefines.swift",
+      "source_location": "L96",
+      "weight": 1.0,
+      "source": "lwkbcommonutils_swift_classes_appdefines_swift",
+      "target": "classes_appdefines_device",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "LWKBCommonUtils_swift/Classes/AppDefines.swift",
+      "source_location": "L127",
+      "weight": 1.0,
+      "source": "lwkbcommonutils_swift_classes_appdefines_swift",
+      "target": "classes_appdefines_appconstants",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "method",
+      "confidence": "EXTRACTED",
+      "source_file": "LWKBCommonUtils_swift/Classes/AppDefines.swift",
+      "source_location": "L14",
+      "weight": 1.0,
+      "source": "classes_appdefines_systemversion",
+      "target": "classes_appdefines_systemversion_isequal",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "method",
+      "confidence": "EXTRACTED",
+      "source_file": "LWKBCommonUtils_swift/Classes/AppDefines.swift",
+      "source_location": "L18",
+      "weight": 1.0,
+      "source": "classes_appdefines_systemversion",
+      "target": "classes_appdefines_systemversion_isgreaterthan",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "method",
+      "confidence": "EXTRACTED",
+      "source_file": "LWKBCommonUtils_swift/Classes/AppDefines.swift",
+      "source_location": "L22",
+      "weight": 1.0,
+      "source": "classes_appdefines_systemversion",
+      "target": "classes_appdefines_systemversion_isgreaterthanorequal",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "method",
+      "confidence": "EXTRACTED",
+      "source_file": "LWKBCommonUtils_swift/Classes/AppDefines.swift",
+      "source_location": "L26",
+      "weight": 1.0,
+      "source": "classes_appdefines_systemversion",
+      "target": "classes_appdefines_systemversion_islessthan",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "method",
+      "confidence": "EXTRACTED",
+      "source_file": "LWKBCommonUtils_swift/Classes/AppDefines.swift",
+      "source_location": "L30",
+      "weight": 1.0,
+      "source": "classes_appdefines_systemversion",
+      "target": "classes_appdefines_systemversion_islessthanorequal",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "Example/LWKBCommonUtils/LWAppDelegate.m",
+      "source_location": "L11",
+      "weight": 1.0,
+      "source": "example_lwkbcommonutils_lwappdelegate_m",
+      "target": "lwkbcommonutils_lwappdelegate_lwappdelegate",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "method",
+      "confidence": "EXTRACTED",
+      "source_file": "Example/LWKBCommonUtils/LWAppDelegate.m",
+      "source_location": "L13",
+      "weight": 1.0,
+      "source": "lwkbcommonutils_lwappdelegate_lwappdelegate",
+      "target": "lwkbcommonutils_lwappdelegate_lwappdelegate_applicationdidfinishlaunchingwithoptions",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "method",
+      "confidence": "EXTRACTED",
+      "source_file": "Example/LWKBCommonUtils/LWAppDelegate.m",
+      "source_location": "L19",
+      "weight": 1.0,
+      "source": "lwkbcommonutils_lwappdelegate_lwappdelegate",
+      "target": "lwkbcommonutils_lwappdelegate_lwappdelegate_applicationwillresignactive",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "method",
+      "confidence": "EXTRACTED",
+      "source_file": "Example/LWKBCommonUtils/LWAppDelegate.m",
+      "source_location": "L25",
+      "weight": 1.0,
+      "source": "lwkbcommonutils_lwappdelegate_lwappdelegate",
+      "target": "lwkbcommonutils_lwappdelegate_lwappdelegate_applicationdidenterbackground",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "method",
+      "confidence": "EXTRACTED",
+      "source_file": "Example/LWKBCommonUtils/LWAppDelegate.m",
+      "source_location": "L31",
+      "weight": 1.0,
+      "source": "lwkbcommonutils_lwappdelegate_lwappdelegate",
+      "target": "lwkbcommonutils_lwappdelegate_lwappdelegate_applicationwillenterforeground",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "method",
+      "confidence": "EXTRACTED",
+      "source_file": "Example/LWKBCommonUtils/LWAppDelegate.m",
+      "source_location": "L36",
+      "weight": 1.0,
+      "source": "lwkbcommonutils_lwappdelegate_lwappdelegate",
+      "target": "lwkbcommonutils_lwappdelegate_lwappdelegate_applicationdidbecomeactive",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "method",
+      "confidence": "EXTRACTED",
+      "source_file": "Example/LWKBCommonUtils/LWAppDelegate.m",
+      "source_location": "L41",
+      "weight": 1.0,
+      "source": "lwkbcommonutils_lwappdelegate_lwappdelegate",
+      "target": "lwkbcommonutils_lwappdelegate_lwappdelegate_applicationwillterminate",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "Example/LWKBCommonUtils/LWViewController.m",
+      "source_location": "L11",
+      "weight": 1.0,
+      "source": "example_lwkbcommonutils_lwviewcontroller_m",
+      "target": "lwkbcommonutils_lwviewcontroller_lwviewcontroller",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "method",
+      "confidence": "EXTRACTED",
+      "source_file": "Example/LWKBCommonUtils/LWViewController.m",
+      "source_location": "L17",
+      "weight": 1.0,
+      "source": "lwkbcommonutils_lwviewcontroller_lwviewcontroller",
+      "target": "lwkbcommonutils_lwviewcontroller_lwviewcontroller_viewdidload",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "method",
+      "confidence": "EXTRACTED",
+      "source_file": "Example/LWKBCommonUtils/LWViewController.m",
+      "source_location": "L23",
+      "weight": 1.0,
+      "source": "lwkbcommonutils_lwviewcontroller_lwviewcontroller",
+      "target": "lwkbcommonutils_lwviewcontroller_lwviewcontroller_didreceivememorywarning",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "Example/Tests/Tests.m",
+      "source_location": "L11",
+      "weight": 1.0,
+      "source": "example_tests_tests_m",
+      "target": "tests_tests_tests",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "method",
+      "confidence": "EXTRACTED",
+      "source_file": "Example/Tests/Tests.m",
+      "source_location": "L17",
+      "weight": 1.0,
+      "source": "tests_tests_tests",
+      "target": "tests_tests_tests_setup",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "method",
+      "confidence": "EXTRACTED",
+      "source_file": "Example/Tests/Tests.m",
+      "source_location": "L23",
+      "weight": 1.0,
+      "source": "tests_tests_tests",
+      "target": "tests_tests_tests_teardown",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "method",
+      "confidence": "EXTRACTED",
+      "source_file": "Example/Tests/Tests.m",
+      "source_location": "L29",
+      "weight": 1.0,
+      "source": "tests_tests_tests",
+      "target": "tests_tests_tests_testexample",
+      "confidence_score": 1.0
+    }
+  ],
+  "hyperedges": []
+}
